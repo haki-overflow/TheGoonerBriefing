@@ -1,2 +1,10 @@
 .env
 models/
+__pycache__/
+episodes/*.wav
+__pycache__/
+episodes/*.wav
+__pycache__/
+episodes/*.wav
+__pycache__/
+episodes/*.wav
